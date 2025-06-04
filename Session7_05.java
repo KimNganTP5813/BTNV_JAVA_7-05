@@ -10,7 +10,7 @@ public class Session7_05 {
         int choice;
 
         do {
-            System.out.println("Menu:");
+            System.out.println("=======Menu=======");
             System.out.println("1: Thêm mới sản phẩm");
             System.out.println("2: Hiển thị danh sách sản phẩm");
             System.out.println("3: Cập nhật sản phẩm");
